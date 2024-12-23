@@ -62,7 +62,7 @@ The number of hardware serial ports is defined using the `_HAVE_HWSERIAL1` macro
 
 ### `CSE_ZH06()`
 
-This constructor creates a new `CSE_ZH06` object. There are two overloads based on the parameter type. User can send a `HardwareSerial` or a `SoftwareSerial` port object. The type of constructor is determined by the macro `SOFTWARE_SERIAL_REQUIRED`.
+This constructor creates a new `CSE_ZH06` object. There are two overloads based on the parameter type. User can send a `HardwareSerial` or a `SoftwareSerial` port object. The type of constructor is determined by the macro `SOFTWARE_SERIAL_REQUIRED`. The supplied serial port is saved to the `_serial` variable.
 
 Throughout this documentation, an example `CSE_ZH06` object `sensor` will be used for examples.
 
