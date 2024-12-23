@@ -77,4 +77,4 @@ Please see the [API.md](/docs/API.md) file for the API reference.
 
 ## References
 
-- 
+- [**Winsen ZH06 - Product Page**](https://www.winsen-sensor.com/sensors/dust-sensor/245.html)
