@@ -1,6 +1,11 @@
 
 
 #
+### **+05:30 12:05:32 AM 24-12-2024, Tuesday**
+
+  - Updated library specifications.
+
+#
 ### **+05:30 10:35:34 PM 23-12-2024, Monday**
 
   - Updated Readme.
