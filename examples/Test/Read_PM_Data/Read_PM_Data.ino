@@ -1,14 +1,15 @@
 
 //======================================================================================//
-/**
- * @file Read_PM_Data.ino
- * @brief Reads the PM data from the Winsen ZH06 laster dust sensor using the `CSE_ZH06` library.
- * @author Vishnu Mohanan (@vishnumaiea, @vizmohanan)
- * @maintainer CIRCUITSTATE Electronics (@circuitstate)
- * @version 0.0.1
- * @date Last Modified: +05:30 18:49:10 PM 22-12-2024, Sunday
- * @license MIT
- * @mainpage https://github.com/CIRCUITSTATE/CSE_ZH06
+/*
+  Filename: Read_PM_Data.ino
+  Description: Reads the PM data from the Winsen ZH06 laster dust sensor using the `CSE_ZH06` library.
+  Framework: Arduino, PlatformIO
+  Author: Vishnu Mohanan (@vishnumaiea, @vizmohanan)
+  Maintainer: CIRCUITSTATE Electronics (@circuitstate)
+  Version: 0.0.1
+  License: MIT
+  Source: https://github.com/CIRCUITSTATE/CSE_ZH06
+  Last Modified: +05:30 20:40:55 PM 23-12-2024, Monday
  */
 //======================================================================================//
 

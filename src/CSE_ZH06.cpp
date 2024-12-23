@@ -1,14 +1,15 @@
 
 //======================================================================================//
-/**
- * @file CSE_ZH06.cpp
- * @brief Main source file for the CSE_ZH06 Arduino library.
- * @author Vishnu Mohanan (@vishnumaiea, @vizmohanan)
- * @maintainer CIRCUITSTATE Electronics (@circuitstate)
- * @version 0.0.1
- * @date Last Modified: +05:30 18:47:08 PM 22-12-2024, Sunday
- * @license MIT
- * @mainpage https://github.com/CIRCUITSTATE/CSE_ZH06
+/*
+  Filename: CSE_ZH06.cpp
+  Description: Main source file for the CSE_ZH06 Arduino library.
+  Framework: Arduino, PlatformIO
+  Author: Vishnu Mohanan (@vishnumaiea, @vizmohanan)
+  Maintainer: CIRCUITSTATE Electronics (@circuitstate)
+  Version: 0.0.1
+  License: MIT
+  Source: https://github.com/CIRCUITSTATE/CSE_ZH06
+  Last Modified: +05:30 20:40:19 PM 23-12-2024, Monday
  */
 //======================================================================================//
 

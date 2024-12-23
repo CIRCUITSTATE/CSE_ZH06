@@ -1,14 +1,15 @@
 
 //======================================================================================//
-/**
- * @file Test.ino
- * @brief Test code for the CSE_ZH06 Arduino library.
- * @author Vishnu Mohanan (@vishnumaiea, @vizmohanan)
- * @maintainer CIRCUITSTATE Electronics (@circuitstate)
- * @version 0.0.1
- * @date Last Modified: +05:30 18:24:31 PM 22-12-2024, Sunday
- * @license MIT
- * @mainpage https://github.com/CIRCUITSTATE/CSE_ZH06
+/*
+  Filename: Test.ino
+  Description: Test code for the CSE_ZH06 Arduino library.
+  Framework: Arduino, PlatformIO
+  Author: Vishnu Mohanan (@vishnumaiea, @vizmohanan)
+  Maintainer: CIRCUITSTATE Electronics (@circuitstate)
+  Version: 0.0.1
+  License: MIT
+  Source: https://github.com/CIRCUITSTATE/CSE_ZH06
+  Last Modified: +05:30 20:41:43 PM 23-12-2024, Monday
  */
 //======================================================================================//
 
