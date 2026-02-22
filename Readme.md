@@ -17,11 +17,15 @@ Another method is to clone the GitHub repository directly into your `libraries` 
 git clone https://github.com/CIRCUITSTATE/CSE_ZH06.git
 ```
 
-The library can also be installed via **PlatformIO**. All officially listed Arduino listed libraries are automatically fetched by PlatformIO. Use the `lib_deps` search option to install the library.
+[**Git**](https://git-scm.com) should be installed on your computer.
+
+The library can also be installed via [**PlatformIO**](https://platformio.org). All officially listed Arduino listed libraries are automatically fetched by PlatformIO. Use the [`lib_deps`](https://docs.platformio.org/en/latest/projectconf/sections/env/options/library/lib_deps.html) search option to install the library.
 
 ## Dependencies
 
-This library uses the [**CSE_MillisTimer**](https://github.com/CIRCUITSTATE/CSE_MillisTimer) library for timing requirements. Make sure to install it.
+This library depends on the following libraries:
+
+- [**CSE_MillisTimer**](https://github.com/CIRCUITSTATE/CSE_MillisTimer) - Arduino task timer library.
 
 ## Example
 
@@ -71,6 +75,10 @@ void loop() {
 }
 ```
 
+## Tutorial
+
+CIRCUITSTATE has a tutorial for interfacing the ZH06 sensor with Arduino - [**How to Interface Winsen ZH06 Laser Dust Sensor with Arduino**](https://www.circuitstate.com/tutorials/how-to-interface-winsen-zh06-laser-dust-sensor-with-arduino/).
+
 ## API Reference
 
 Please see the [API.md](/docs/API.md) file for the API reference.
@@ -78,3 +86,4 @@ Please see the [API.md](/docs/API.md) file for the API reference.
 ## References
 
 - [**Winsen ZH06 - Product Page**](https://www.winsen-sensor.com/sensors/dust-sensor/245.html)
+- [**How to Interface Winsen ZH06 Laser Dust Sensor with Arduino - CIRCUITSTATE**](https://www.circuitstate.com/tutorials/how-to-interface-winsen-zh06-laser-dust-sensor-with-arduino/)

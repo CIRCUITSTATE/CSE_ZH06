@@ -9,7 +9,7 @@
   Version: 0.0.1
   License: MIT
   Source: https://github.com/CIRCUITSTATE/CSE_ZH06
-  Last Modified: +05:30 20:40:55 PM 23-12-2024, Monday
+  Last Modified: +05:30 00:47:19 AM 24-03-2025, Monday
  */
 //======================================================================================//
 
@@ -17,8 +17,8 @@
 #include <CSE_ZH06.h>
 
 // Define the serial port pins here.
-#define  PIN_SERIAL_TX1  16
-#define  PIN_SERIAL_RX1  17
+#define  PIN_SERIAL_TX1  17
+#define  PIN_SERIAL_RX1  13
 
 CSE_ZH06 pmSensor (Serial1);  // Create a CSE_ZH06 object to access the sensor
 
